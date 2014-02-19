@@ -1,0 +1,15 @@
+<plugin name='geb' version='0.6.3' grailsVersion='1.3.0 &gt; *'>
+  <author>Luke Daley</author>
+  <authorEmail>ld@ldaley.com</authorEmail>
+  <title>Geb integration for Grails</title>
+  <description>Integrates the geb functional testing framework</description>
+  <documentation>http://grails.org/plugin/geb</documentation>
+  <resources>
+    <resource>BuildConfig</resource>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+    <resource>TheController</resource>
+  </resources>
+  <dependencies />
+  <behavior />
+</plugin>
